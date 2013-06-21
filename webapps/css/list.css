@@ -1,0 +1,40 @@
+.menu_div_normal {
+	font-size: 28px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	background-color: #66FF66;
+	border: 1px solid #006600;
+}
+
+.tableHead {
+}
+
+#list01div {
+	margin: 0 auto;
+	overflow-y: scroll;
+	width: 440px;
+	height: 200px;
+}
+
+#list01div2 {
+	margin: 0 auto;
+	overflow-y: scroll;
+	width: 440px;
+	height: 200px;
+}
+.tableData {
+	border: 1px solid #006600;
+}
+.col_id {
+	width: 50px;
+}
+.col_name {
+	width: 200px;
+}
+.col_age {
+	width: 50px;
+}
+.col_birth {
+	width: 80px;
+}
